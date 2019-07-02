@@ -1,0 +1,5 @@
+selenium==3.141.0
+robotframework==3.1.1
+robotframework-pabot==0.53
+robotframework-seleniumlibrary==3.3.1
+robotframework-react==1.0.0a2
